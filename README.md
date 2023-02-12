@@ -1,22 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ghali</h1>
-<h3 align="center">A passionate CS student in Germany 🇩🇪</h3>
+<h1 align="center">Hi 👋 I'm Ghali</h1>
+<h3 align="center">A passionate CS student based in Germany 🇩🇪</h3>
 
 
 - 🔭 I’m currently working on [get_next_line in C](https://github.com/DevGhali/42cursus)
 
-- 🌱 I’m currently learning **Swift, Objective-C and ios Jailbreaking**
+- 🌱 I’m currently learning **German 🇩🇪 Swift 🍎 + doing curriculum at 42Wolfsburg**
 
 - 👯 I’m looking to collaborate on **Creative ideas and projects, anything with raspberry pi's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevGhali](https://github.com/DevGhali)
 
-- 📝 I regularly write articles on [i don't write .... yet](i don't write .... yet)
+- 📝 I regularly write articles on [i don't write .... yet]
 
-- 💬 Ask me about **Piscine at 42, Networking**
+- 💬 Talk to me about **Aviation ✈️  Technology 📱  Travel 🗺  Cars 🏎 Weaponry 🔫**
 
 - 📫 How to reach me **ghali.developer@gmail.com**
 
-- 📄 Know about my experiences [personal website in works ...](personal website in works ...)
+- 📄 Know about my experiences [personal website in works ...]
 
 - ⚡ Fun fact **I don't bite, feel free to contact me and discuss anything**
 
