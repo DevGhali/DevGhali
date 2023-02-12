@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CS student in Germany 🇩🇪</h3>
 
 
-- 🔭 I’m currently working on [ft_printf in C](https://github.com/DevGhali/42cursus)
+- 🔭 I’m currently working on [get_next_line in C](https://github.com/DevGhali/42cursus)
 
 - 🌱 I’m currently learning **Swift, Objective-C and ios Jailbreaking**
 
