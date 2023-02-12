@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **German 🇩🇪 Swift 🍎 + doing curriculum at 42Wolfsburg**
 
-- 👯 I’m looking to collaborate on **Creative ideas and projects, Software and Hardware related**
+- 👯 I’m looking to collaborate on **Creative ideas and projects - Software and Hardware related, CTFs and Coding Challenges**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevGhali](https://github.com/DevGhali)
 
