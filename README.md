@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Ghali</h1>
-<h3 align="center">A passionate CS student based in Germany 🇩🇪</h3>
+<h3 align="center">🅰️ passionate CS student based in Germany 🇩🇪</h3> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/42Wolfsburg_Logo_ver_pos_black.pdf/page1-1200px-42Wolfsburg_Logo_ver_pos_black.pdf.jpg" alt="42" width="100" height="100"/>
 
 
 - 🔭 I’m currently working on [get_next_line in C](https://github.com/DevGhali/42cursus)
 
 - 🌱 I’m currently learning **German 🇩🇪 Swift 🍎 + doing curriculum at 42Wolfsburg**
 
-- 👯 I’m looking to collaborate on **Creative ideas and projects, anything with raspberry pi's**
+- 👯 I’m looking to collaborate on **Creative ideas and projects, Software and Hardware related**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevGhali](https://github.com/DevGhali)
 
