@@ -2,7 +2,7 @@
 <h3 align="center">🅰️ passionate CS student based in Germany 🇩🇪</h3> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/42Wolfsburg_Logo_ver_pos_black.pdf/page1-1200px-42Wolfsburg_Logo_ver_pos_black.pdf.jpg" alt="42" width="100" height="100"/>
 
 
-- 🔭 I’m currently working on [pipex in C](https://github.com/DevGhali/42cursus)
+- 🔭 I’m currently working on [push_swap in C](https://github.com/DevGhali/42cursus)
 
 - 🌱 I’m currently learning **German 🇩🇪 Swift 🍎 + doing curriculum at 42Wolfsburg**
 
